@@ -2,8 +2,8 @@
 
 # Variables
 SVM_NAME="SVM1"
-TAG_KEY="applicationid"
-TAG_VALUE="ap123445"
+TAG_KEY="myid"
+TAG_VALUE="id123445"
 AWS_REGION="us-east-1"  # Replace with your AWS region
 
 # Function to check if AWS CLI and jq are installed
